@@ -6,7 +6,9 @@
     {"name":"TileSet","order":5,"path":"folders/TileSet.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"o_col","order":1,"path":"objects/o_col/o_col.yy",},
     {"name":"basic_tiles_spt","order":1,"path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},
+    {"name":"s_collision","order":3,"path":"sprites/s_collision/s_collision.yy",},
     {"name":"s_player","order":2,"path":"sprites/s_player/s_player.yy",},
   ],
 }
