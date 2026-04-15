@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Object","order":7,"path":"folders/Object.yy",},
+    {"name":"Rooms","order":6,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":4,"path":"folders/Sprites.yy",},
+    {"name":"TileSet","order":5,"path":"folders/TileSet.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"basic_tiles_spt","order":1,"path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},
+    {"name":"s_player","order":2,"path":"sprites/s_player/s_player.yy",},
+  ],
+}
