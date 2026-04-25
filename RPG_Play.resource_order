@@ -7,7 +7,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"o_col","order":1,"path":"objects/o_col/o_col.yy",},
-    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"oEnemy","order":2,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oSpawn","order":3,"path":"objects/oSpawn/oSpawn.yy",},
     {"name":"Path1","order":4,"path":"paths/Path1/Path1.yy",},
     {"name":"basic_tiles_spt","order":1,"path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},
