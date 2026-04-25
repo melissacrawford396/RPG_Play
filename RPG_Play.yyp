@@ -26,6 +26,7 @@
   "resources":[
     {"id":{"name":"o_col","path":"objects/o_col/o_col.yy",},},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
+    {"id":{"name":"oController","path":"objects/oController/oController.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oSpawn","path":"objects/oSpawn/oSpawn.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
