@@ -7,9 +7,12 @@
   ],
   "ResourceOrderSettings":[
     {"name":"o_col","order":1,"path":"objects/o_col/o_col.yy",},
+    {"name":"oEnemy","order":2,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oSpawn","order":3,"path":"objects/oSpawn/oSpawn.yy",},
     {"name":"basic_tiles_spt","order":1,"path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},
     {"name":"s_collision","order":3,"path":"sprites/s_collision/s_collision.yy",},
     {"name":"s_player","order":2,"path":"sprites/s_player/s_player.yy",},
+    {"name":"sEnemy","order":7,"path":"sprites/sEnemy/sEnemy.yy",},
     {"name":"spt_16_tilesheet","order":6,"path":"sprites/spt_16_tilesheet/spt_16_tilesheet.yy",},
     {"name":"spt_tile_sheet_grid","order":5,"path":"sprites/spt_tile_sheet_grid/spt_tile_sheet_grid.yy",},
     {"name":"spt_tiles2","order":4,"path":"sprites/spt_tiles2/spt_tiles2.yy",},
