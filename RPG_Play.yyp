@@ -26,8 +26,9 @@
   "resources":[
     {"id":{"name":"o_col","path":"objects/o_col/o_col.yy",},},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
-    {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"oSpawn","path":"objects/oSpawn/oSpawn.yy",},},
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"basic_tiles_spt","path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},},
     {"id":{"name":"s_collision","path":"sprites/s_collision/s_collision.yy",},},
