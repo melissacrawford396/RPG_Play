@@ -9,6 +9,7 @@ global.hp = 100;
 global.spd = 1; 
 global.level = 1; 
 
-global.coins = 100;
+global.coins = 10000000;
 
 global.range_1 = 100; 
+global.range_2 = 50; 
