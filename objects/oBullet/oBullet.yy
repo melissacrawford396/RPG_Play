@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"o_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oBullet",
+  "eventList":[],
   "managed":true,
-  "name":"o_player",
+  "name":"oBullet",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Object.yy",
+    "name":"projectiles",
+    "path":"folders/Object/projectiles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_player",
-    "path":"sprites/s_player/s_player.yy",
+    "name":"sBullet",
+    "path":"sprites/sBullet/sBullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
