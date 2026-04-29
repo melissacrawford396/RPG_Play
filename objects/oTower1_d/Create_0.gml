@@ -1,1 +1,1 @@
-range = global.range_1;
+col = c_white;

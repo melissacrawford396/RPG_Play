@@ -20,6 +20,11 @@ if(enemy != noone){
         
         objectToShoot = enemy; 
         draw_line(x, y, enemy.x, enemy.y); // prove we're aiming
+        if(mouseOver(x, y, sprite_width, sprite_height)){
+            
+            draw_line(x, y, enemy.x, enemy.y); // prove we're aiming
+        } 
+        
     } else {
         shooting = false; 
         objectToShoot = noone;
