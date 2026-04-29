@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
     {"name":"Object","order":3,"path":"folders/Object.yy",},
     {"name":"enemies","order":9,"path":"folders/Object/enemies.yy",},
     {"name":"projectiles","order":10,"path":"folders/Object/projectiles.yy",},
@@ -20,6 +21,7 @@
     {"name":"oTower2_d","order":1,"path":"objects/oTower2_d/oTower2_d.yy",},
     {"name":"oTower2","order":1,"path":"objects/oTower2/oTower2.yy",},
     {"name":"Path1","order":4,"path":"paths/Path1/Path1.yy",},
+    {"name":"mouseOver","order":1,"path":"scripts/mouseOver/mouseOver.yy",},
     {"name":"basic_tiles_spt","order":1,"path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},
     {"name":"spt_tile_sheet_grid","order":1,"path":"sprites/spt_tile_sheet_grid/spt_tile_sheet_grid.yy",},
     {"name":"spt_tiles2","order":2,"path":"sprites/spt_tiles2/spt_tiles2.yy",},
