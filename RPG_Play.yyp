@@ -45,6 +45,7 @@
     {"id":{"name":"oTower2_c","path":"objects/oTower2_c/oTower2_c.yy",},},
     {"id":{"name":"oTower2_d","path":"objects/oTower2_d/oTower2_d.yy",},},
     {"id":{"name":"oTower2","path":"objects/oTower2/oTower2.yy",},},
+    {"id":{"name":"oTowerParent","path":"objects/oTowerParent/oTowerParent.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"mouseOver","path":"scripts/mouseOver/mouseOver.yy",},},
