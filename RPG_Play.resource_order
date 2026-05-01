@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings":[
-    {"name":"Scripts","order":6,"path":"folders/Scripts.yy",},
     {"name":"Object","order":3,"path":"folders/Object.yy",},
     {"name":"enemies","order":9,"path":"folders/Object/enemies.yy",},
     {"name":"projectiles","order":10,"path":"folders/Object/projectiles.yy",},
@@ -8,6 +7,7 @@
     {"name":"towerDrag","order":8,"path":"folders/Object/towerDrag.yy",},
     {"name":"towers","order":6,"path":"folders/Object/towers.yy",},
     {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":6,"path":"folders/Scripts.yy",},
     {"name":"enemies","order":10,"path":"folders/Sprites/enemies.yy",},
     {"name":"projectiles","order":12,"path":"folders/Sprites/projectiles.yy",},
     {"name":"tileSheets","order":11,"path":"folders/Sprites/tileSheets.yy",},
@@ -15,6 +15,7 @@
     {"name":"TileSet","order":1,"path":"folders/TileSet.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Note1","order":2,"path":"notes/Note1/Note1.yy",},
     {"name":"oController","order":5,"path":"objects/oController/oController.yy",},
     {"name":"oRegion","order":11,"path":"objects/oRegion/oRegion.yy",},
     {"name":"oSpawn","order":3,"path":"objects/oSpawn/oSpawn.yy",},
@@ -23,6 +24,7 @@
     {"name":"oTower2","order":1,"path":"objects/oTower2/oTower2.yy",},
     {"name":"oTowerParent","order":2,"path":"objects/oTowerParent/oTowerParent.yy",},
     {"name":"Path1","order":4,"path":"paths/Path1/Path1.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"basic_tiles_spt","order":1,"path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},
     {"name":"spt_tile_sheet_grid","order":1,"path":"sprites/spt_tile_sheet_grid/spt_tile_sheet_grid.yy",},
     {"name":"spt_tiles2","order":2,"path":"sprites/spt_tiles2/spt_tiles2.yy",},
