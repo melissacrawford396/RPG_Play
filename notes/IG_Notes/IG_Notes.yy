@@ -1,10 +1,10 @@
 {
   "$GMNotes":"v1",
-  "%Name":"Note1",
-  "name":"Note1",
+  "%Name":"IG_Notes",
+  "name":"IG_Notes",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Notes",
+    "path":"folders/Notes.yy",
   },
   "resourceType":"GMNotes",
   "resourceVersion":"2.0",

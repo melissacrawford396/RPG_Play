@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Object","folderPath":"folders/Object.yy","name":"Object","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"enemies","folderPath":"folders/Object/enemies.yy","name":"enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"projectiles","folderPath":"folders/Object/projectiles.yy","name":"projectiles","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,9 +35,11 @@
   },
   "name":"RPG_Play",
   "resources":[
-    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"IG_Notes","path":"notes/IG_Notes/IG_Notes.yy",},},
+    {"id":{"name":"Tech notes","path":"notes/Tech notes/Tech notes.yy",},},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},},
     {"id":{"name":"oController","path":"objects/oController/oController.yy",},},
+    {"id":{"name":"oEnemy_Standing","path":"objects/oEnemy_Standing/oEnemy_Standing.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oRegion","path":"objects/oRegion/oRegion.yy",},},
     {"id":{"name":"oSpawn","path":"objects/oSpawn/oSpawn.yy",},},
@@ -49,6 +52,7 @@
     {"id":{"name":"oTowerParent","path":"objects/oTowerParent/oTowerParent.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"mouseOver","path":"scripts/mouseOver/mouseOver.yy",},},
     {"id":{"name":"basic_tiles_spt","path":"sprites/basic_tiles_spt/basic_tiles_spt.yy",},},
@@ -70,8 +74,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
