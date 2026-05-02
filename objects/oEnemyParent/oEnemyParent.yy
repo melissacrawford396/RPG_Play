@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"oEnemy_Standing",
+  "%Name":"oEnemyParent",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,16 +8,13 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oEnemy_Standing",
+  "name":"oEnemyParent",
   "overriddenProperties":[],
   "parent":{
     "name":"enemies",
     "path":"folders/Object/enemies.yy",
   },
-  "parentObjectId":{
-    "name":"oEnemyParent",
-    "path":"objects/oEnemyParent/oEnemyParent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

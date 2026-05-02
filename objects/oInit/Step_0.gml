@@ -1,8 +1,5 @@
 // enemy progression
-if(instance_number(oEnemy) <= 0){
-    // MOAR enemies plz
-    spawn_count = 0; 
-    spawn_amount++; // add one more enemy each wave
+if(global.released mod 5 == 0 and global.released > 0){
     global.level++;
     global.hp += 10;
     global.spd += 0.1;
