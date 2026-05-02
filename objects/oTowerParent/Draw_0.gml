@@ -1,11 +1,11 @@
 draw_self();
-if(mouseOver(x, y, sprite_width, sprite_height)){
-  draw_circle(x, y, range, true);  
-} 
-    
+//if(mouseOver(x, y, sprite_width, sprite_height)){
+  //draw_circle(x, y, range, true);  
+//} 
+    //
 
 // this was how I saw the circles. Comment for now
-//draw_circle(x, y, range, true); // outline the circle of range 
+draw_circle(x, y, range, true); // outline the circle of range 
 
 var enemy = instance_nearest(x, y, oEnemy); 
 var adj_for_edges = range * 0.1; // give 10% allowance

@@ -1,7 +1,7 @@
 // shoot bullets plz
 if(instance_exists(objectToShoot)){
     var bullet = instance_create_depth(x, y, -9, oBullet); 
-    bullet.speed = 10; 
+    bullet.speed = 8; 
     bullet.direction = point_direction(x, y, objectToShoot.x, objectToShoot.y); 
     alarm[0] = fire_rate;
 } else {
