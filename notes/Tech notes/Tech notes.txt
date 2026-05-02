@@ -1,3 +1,7 @@
 # notes
 
 Best practice for declaring global variables, is to put them in script that should get run first
+
+
+
+### Debugger
