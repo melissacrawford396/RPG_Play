@@ -1,5 +1,5 @@
 // enemy progression
-if(instance_number(oEnemy) <= 0){
+if(instance_number(enemyO) <= 0){
     // MOAR enemies plz
     spawn_count = 0; 
     spawn_amount++; // add one more enemy each wave

@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"Path3",
+  "closed":false,
+  "kind":0,
+  "name":"Path3",
+  "parent":{
+    "name":"pathed",
+    "path":"folders/Object/enemies/pathed.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":-7.8492737,"y":119.860214,},
+    {"speed":100.0,"x":374.8819,"y":119.860214,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+global.coins += 20; // coins for DEATH - release

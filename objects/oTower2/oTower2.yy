@@ -6,6 +6,7 @@
   "name":"oTower2",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oTowerParent","path":"objects/oTowerParent/oTowerParent.yy",},"propertyId":{"name":"fire_rate_div","path":"objects/oTowerParent/oTowerParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"6",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oTowerParent","path":"objects/oTowerParent/oTowerParent.yy",},"propertyId":{"name":"range","path":"objects/oTowerParent/oTowerParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"50",},
   ],
   "parent":{
     "name":"towers",
