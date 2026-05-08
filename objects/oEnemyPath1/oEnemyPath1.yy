@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
   "%Name":"oEnemyPath1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"oEnemyPath1",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oEnemyParent","path":"objects/oEnemyParent/oEnemyParent.yy",},"propertyId":{"name":"pathP","path":"objects/oEnemyParent/oEnemyParent.yy",},"resource":{"name":"Path3","path":"paths/Path3/Path3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Path3",},
+  ],
   "parent":{
     "name":"pathed",
     "path":"folders/Object/enemies/pathed.yy",
@@ -28,9 +28,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"path","filters":[],"listItems":[],"multiselect":false,"name":"path","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"null","varType":0,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oSpawn1",
+  "%Name":"oSpawn2",
   "eventList":[],
   "managed":true,
-  "name":"oSpawn1",
+  "name":"oSpawn2",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oSpawnParent","path":"objects/oSpawnParent/oSpawnParent.yy",},"propertyId":{"name":"enemyO","path":"objects/oSpawnParent/oSpawnParent.yy",},"resource":{"name":"oEnemyPath1","path":"objects/oEnemyPath1/oEnemyPath1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"oEnemyPath1",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oSpawnParent","path":"objects/oSpawnParent/oSpawnParent.yy",},"propertyId":{"name":"enemyO","path":"objects/oSpawnParent/oSpawnParent.yy",},"resource":{"name":"oEnemyPath2","path":"objects/oEnemyPath2/oEnemyPath2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"oEnemyPath2",},
   ],
   "parent":{
     "name":"spawn",

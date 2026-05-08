@@ -7,7 +7,7 @@ draw_self();
 // this was how I saw the circles. Comment for now
 draw_circle(x, y, range, true); // outline the circle of range 
 
-var enemy = instance_nearest(x, y, oEnemy); 
+var enemy = instance_nearest(x, y, oEnemyParent); 
 var adj_for_edges = range * 0.1; // give 10% allowance
 
 if(enemy != noone){

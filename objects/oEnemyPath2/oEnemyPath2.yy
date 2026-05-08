@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
   "%Name":"oEnemyPath2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"oEnemyPath2",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oEnemyParent","path":"objects/oEnemyParent/oEnemyParent.yy",},"propertyId":{"name":"pathP","path":"objects/oEnemyParent/oEnemyParent.yy",},"resource":{"name":"Path2","path":"paths/Path2/Path2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Path2",},
+  ],
   "parent":{
     "name":"pathed",
     "path":"folders/Object/enemies/pathed.yy",

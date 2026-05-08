@@ -9,8 +9,8 @@
     "path":"folders/Rooms.yy",
   },
   "points":[
-    {"speed":100.0,"x":-7.5266914,"y":168.02151,},
-    {"speed":100.0,"x":372.269,"y":168.17203,},
+    {"speed":100.0,"x":-7.0,"y":233.0,},
+    {"speed":100.0,"x":376.0,"y":231.0,},
   ],
   "precision":4,
   "resourceType":"GMPath",

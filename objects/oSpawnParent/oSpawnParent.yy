@@ -28,7 +28,11 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"enemyO","filters":[
+        "GMObject",
+      ],"listItems":[],"multiselect":false,"name":"enemyO","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"oEnemyParent","path":"objects/oEnemyParent/oEnemyParent.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"oEnemyParent","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
