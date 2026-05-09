@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"Path4_2",
+  "closed":false,
+  "kind":0,
+  "name":"Path4_2",
+  "parent":{
+    "name":"Room4",
+    "path":"folders/Paths/Room4.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":718.5185,"y":325.5926,},
+    {"speed":100.0,"x":-13.333336,"y":322.51852,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

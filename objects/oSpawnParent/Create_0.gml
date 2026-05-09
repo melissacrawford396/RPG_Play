@@ -1,17 +1,23 @@
 spawn_amount = 5; 
 spawn_count = 0; 
-spawn_rate = 1 * game_get_speed(gamespeed_fps); 
+//spawn_rate = 1 * game_get_speed(gamespeed_fps); 
+spawn_rate = 0.5 * game_get_speed(gamespeed_fps); 
 room_speed_var = game_get_speed(gamespeed_fps);
 
 // Call alarm in 1 ms
 //alarm[0] = 1; 
 alarm[1] = room_speed_var;
 
-global.hp = 100;
-global.spd = 1; 
+//global.hp = 100;
+//global.spd = 1; 
+global.hp = 1;
+global.spd = 2; 
+
+
 global.level = 1; 
 
-global.coins = 1000;
+
+global.coins = 0;
 
 global.range_1 = 100; 
 global.range_2 = 50; 

@@ -5,8 +5,8 @@
   "kind":0,
   "name":"Path3",
   "parent":{
-    "name":"pathed",
-    "path":"folders/Object/enemies/pathed.yy",
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
   "points":[
     {"speed":100.0,"x":-7.8492737,"y":119.860214,},
