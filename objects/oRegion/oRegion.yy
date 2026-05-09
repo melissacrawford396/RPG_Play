@@ -32,5 +32,5 @@
     "path":"sprites/sRegion/sRegion.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

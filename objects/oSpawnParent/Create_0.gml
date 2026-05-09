@@ -5,7 +5,7 @@ room_speed_var = game_get_speed(gamespeed_fps);
 
 // Call alarm in 1 ms
 //alarm[0] = 1; 
-alarm[1] = room_speed_var * 5; // call every 5 seconds 
+alarm[1] = room_speed_var;
 
 global.hp = 100;
 global.spd = 1; 
