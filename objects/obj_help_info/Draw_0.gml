@@ -1,10 +1,8 @@
-draw_self();
 
-// Set the font and the place to set the text
-draw_set_font(Font1);
+// Set place to set the text
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
-draw_text(x, y, btn_text);
+draw_text(x, y, "Click on the buyable towers.\nThen click again on land to place");
 
 // reset to default values to not interfere other draw
 draw_set_halign(fa_left);
