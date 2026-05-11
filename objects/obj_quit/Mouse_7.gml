@@ -1,5 +1,7 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(Room4_round)
+// If clicked, end the game
+game_end();
+
 

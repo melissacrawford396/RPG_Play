@@ -1,5 +1,5 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(Room4_round)
+room_goto(R_help);
 
