@@ -4,8 +4,8 @@ if(instance_number(enemyO) <= 0){
     spawn_count = 0; 
     spawn_amount++; // add one more enemy each wave
     global.level++;
-    global.hp += 10;
-    global.spd += 0.1;
+    //global.hp += 1;
+    //global.spd += 0.1;
     spawn_rate -= 2.5; 
     alarm[0] = spawn_rate;
     

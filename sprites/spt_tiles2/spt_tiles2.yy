@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"tileSheets",
-    "path":"folders/Sprites/tileSheets.yy",
+    "name":"tilePNGs",
+    "path":"folders/Sprites/tilePNGs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
