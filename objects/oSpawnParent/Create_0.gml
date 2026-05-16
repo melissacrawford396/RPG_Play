@@ -6,17 +6,3 @@ room_speed_var = 0.5 * game_get_speed(gamespeed_fps);
 // Call alarm in 1 ms
 //alarm[0] = 1; 
 alarm[1] = room_speed_var;
-
-//global.hp = 100;
-//global.spd = 1; 
-global.hp = 1;
-global.spd = 2; 
-
-
-global.level = 1; 
-
-
-global.coins = 1000;
-
-global.range_1 = 100; 
-global.range_2 = 50; 
