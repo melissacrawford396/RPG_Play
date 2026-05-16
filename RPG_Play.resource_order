@@ -25,6 +25,7 @@
     {"name":"TileSet","order":1,"path":"folders/TileSet.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Note3","order":2,"path":"notes/Note3/Note3.yy",},
     {"name":"Tech notes","order":1,"path":"notes/Tech notes/Tech notes.yy",},
     {"name":"obj_help_info","order":4,"path":"objects/obj_help_info/obj_help_info.yy",},
     {"name":"obj_help","order":2,"path":"objects/obj_help/obj_help.yy",},

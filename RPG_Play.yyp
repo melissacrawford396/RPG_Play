@@ -46,6 +46,7 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"IG_Notes","path":"notes/IG_Notes/IG_Notes.yy",},},
+    {"id":{"name":"Note3","path":"notes/Note3/Note3.yy",},},
     {"id":{"name":"Tech notes","path":"notes/Tech notes/Tech notes.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_help_info","path":"objects/obj_help_info/obj_help_info.yy",},},
@@ -116,6 +117,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"R_menu","path":"rooms/R_menu/R_menu.yy",},},
+    {"roomId":{"name":"Room5_IG_scale","path":"rooms/Room5_IG_scale/Room5_IG_scale.yy",},},
     {"roomId":{"name":"Room4_round","path":"rooms/Room4_round/Room4_round.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2_test_fire_2","path":"rooms/Room2_test_fire_2/Room2_test_fire_2.yy",},},
@@ -123,7 +125,6 @@
     {"roomId":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room1_triangle","path":"rooms/Room1_triangle/Room1_triangle.yy",},},
-    {"roomId":{"name":"Room5_IG_scale","path":"rooms/Room5_IG_scale/Room5_IG_scale.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
