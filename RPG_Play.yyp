@@ -47,6 +47,7 @@
   },
   "name":"RPG_Play",
   "resources":[
+    {"id":{"name":"Font1_smol","path":"fonts/Font1_smol/Font1_smol.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"IG_Notes","path":"notes/IG_Notes/IG_Notes.yy",},},
     {"id":{"name":"Note3","path":"notes/Note3/Note3.yy",},},
@@ -82,6 +83,7 @@
     {"id":{"name":"oTower2_d","path":"objects/oTower2_d/oTower2_d.yy",},},
     {"id":{"name":"oTower2","path":"objects/oTower2/oTower2.yy",},},
     {"id":{"name":"oTowerC_Parent","path":"objects/oTowerC_Parent/oTowerC_Parent.yy",},},
+    {"id":{"name":"oTowerD_Parent","path":"objects/oTowerD_Parent/oTowerD_Parent.yy",},},
     {"id":{"name":"oTowerParent","path":"objects/oTowerParent/oTowerParent.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"Path2","path":"paths/Path2/Path2.yy",},},
