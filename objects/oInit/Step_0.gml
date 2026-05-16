@@ -7,4 +7,4 @@ if(global.released mod 5 == 0 and global.released > 0){
     
 }
 
-alarm[1] = room_speed_var * 5;
+//alarm[1] = room_speed_var * 5;
