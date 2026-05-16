@@ -48,6 +48,7 @@
     {"name":"oTower1_c","order":1,"path":"objects/oTower1_c/oTower1_c.yy",},
     {"name":"oTower2_d","order":1,"path":"objects/oTower2_d/oTower2_d.yy",},
     {"name":"oTower2","order":1,"path":"objects/oTower2/oTower2.yy",},
+    {"name":"oTowerC_Parent","order":2,"path":"objects/oTowerC_Parent/oTowerC_Parent.yy",},
     {"name":"oTowerParent","order":2,"path":"objects/oTowerParent/oTowerParent.yy",},
     {"name":"Path1","order":3,"path":"paths/Path1/Path1.yy",},
     {"name":"Path2","order":1,"path":"paths/Path2/Path2.yy",},

@@ -1,19 +1,20 @@
 {
   "$GMObject":"",
   "%Name":"oTower2_c",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"oTower2_c",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oTowerC_Parent","path":"objects/oTowerC_Parent/oTowerC_Parent.yy",},"propertyId":{"name":"cost","path":"objects/oTowerC_Parent/oTowerC_Parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
+  ],
   "parent":{
     "name":"towerClick",
     "path":"folders/Object/towerClick.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oTowerC_Parent",
+    "path":"objects/oTowerC_Parent/oTowerC_Parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
