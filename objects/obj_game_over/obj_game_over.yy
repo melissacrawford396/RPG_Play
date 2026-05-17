@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oController",
+  "%Name":"obj_game_over",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oController",
+  "name":"obj_game_over",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Object.yy",
+    "name":"game_over",
+    "path":"folders/Object/menu_buttons/game_over.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spt_game_over",
+    "path":"sprites/spt_game_over/spt_game_over.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
