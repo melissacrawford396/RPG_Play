@@ -1,11 +1,12 @@
 
 global.hp = 100;
-global.spd = 1; 
+global.spd = 10; 
 global.level = 1; 
 
 global.coins = 200;
 global.released = 0;
 
-global.hearts = 5; 
+global.hearts = 1; 
+global.alive = true; 
 
 
