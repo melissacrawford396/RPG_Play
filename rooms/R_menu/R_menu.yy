@@ -10,10 +10,12 @@
     {"name":"inst_74F3D3D0","path":"rooms/R_menu/R_menu.yy",},
     {"name":"inst_BEB42EB","path":"rooms/R_menu/R_menu.yy",},
     {"name":"inst_2AAFB932","path":"rooms/R_menu/R_menu.yy",},
+    {"name":"inst_4BC052EB","path":"rooms/R_menu/R_menu.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v4","%Name":"inst_4BC052EB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4BC052EB","objectId":{"name":"oInit","path":"objects/oInit/oInit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":-1.0,"x":32.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_2912056A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2912056A","objectId":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":192.0,},
         {"$GMRInstance":"v4","%Name":"inst_74F3D3D0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_74F3D3D0","objectId":{"name":"obj_help","path":"objects/obj_help/obj_help.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":352.0,},
         {"$GMRInstance":"v4","%Name":"inst_BEB42EB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_BEB42EB","objectId":{"name":"obj_quit","path":"objects/obj_quit/obj_quit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":512.0,},
