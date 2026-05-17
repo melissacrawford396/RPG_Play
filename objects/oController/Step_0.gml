@@ -5,6 +5,7 @@ if (global.hearts <= 0 && !instance_exists(obj_game_over)){
     global.spd = 0;  // pause 
     
     
+    
     //display the game over object
     //instance_create_layer(0, 0, "Instances", obj_game_over);
     
