@@ -1,0 +1,20 @@
+# Fonts
+
+
+- Looking at this one? 
+
+
+Fonts
+- make sure they are consistent spacing for each letter
+- Scale with large/small pixels available
+
+
+They ask for donations which I'm chill with. But not sure  what kind I really want.
+
+possibilities: 
+- https://datagoblin.itch.io/monograms
+
+## meh, later me's problem
+- Let's use a mac font
+Monaco and Courier are according to AI
+- "fixed-width (monospace) and clean, they scale cleanly without anti-aliasing distortion"
