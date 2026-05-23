@@ -18,4 +18,5 @@ level_up = function (){
         spawn_amount++; // inc enemies per wave
         //spawn_rate -= 2.5;  // I assume this will space out enemies more? weird? 
     }
+    alarm[0] = check_rate;
 }
