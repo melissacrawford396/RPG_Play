@@ -5,3 +5,17 @@ Best practice for declaring global variables, is to put them in script that shou
 
 
 ### Debugger
+
+
+# Todo
+- fix the level counting
+- make the pixels go to an island
+- make a lil island pixel house thing
+- Try to use one of my lil alien guys as enemy
+
+
+## Restructure
+- Move around the files so I can duplicate a room at a time.
+- each room should contain it's paths, enemies, etc. So it's easy to dupilcate
+    - Room specific pieces
+    - Shared utilities across all of them
