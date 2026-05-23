@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oSpawnParent",
+  "%Name":"oProgression",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oSpawnParent",
+  "name":"oProgression",
   "overriddenProperties":[],
   "parent":{
-    "name":"spawn",
-    "path":"folders/Object/spawn.yy",
+    "name":"shared",
+    "path":"folders/Object/shared.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +26,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"enemyO","filters":[
-        "GMObject",
-      ],"listItems":[],"multiselect":false,"name":"enemyO","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"oEnemyParent","path":"objects/oEnemyParent/oEnemyParent.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"oEnemyParent","varType":5,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

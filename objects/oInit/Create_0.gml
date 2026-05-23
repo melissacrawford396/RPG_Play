@@ -4,7 +4,6 @@ global.spd = 5;
 global.level = 1; 
 
 global.coins = 200;
-global.released = 0;
 
 global.hearts = 5; 
 global.alive = true; 
