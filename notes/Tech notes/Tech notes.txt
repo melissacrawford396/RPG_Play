@@ -12,6 +12,10 @@ Best practice for declaring global variables, is to put them in script that shou
 - make the pixels go to an island
 - make a lil island pixel house thing
 - Try to use one of my lil alien guys as enemy
+- Stop towers from attacking enemies
+- stop animation for the enemies? 
+- X____Intro to play room works. Font scaled 
+- X____G UI doesn't appear when you restart. 
 
 
 ## Restructure

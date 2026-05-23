@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oInit",
+  "%Name":"oGUI",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oInit",
+  "name":"oGUI",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Object.yy",
+    "name":"shared",
+    "path":"folders/Object/shared.yy",
   },
   "parentObjectId":null,
   "persistent":false,
