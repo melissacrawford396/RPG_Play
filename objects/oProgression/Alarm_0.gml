@@ -23,11 +23,10 @@ if(level_end) {
     // Add spawn button
     // that button will trigger the level up when clicked
     if (!instance_exists(obj_spawn)) {
-        // set in the middle of the bottom part of the screen 
-        btn_height = sprite_get_height(spt_title_screen_block);
-        instance_create_layer(room_width/2, room_height - btn_height/2, "UI_Layer", obj_spawn);
-        
+        add_spawn_btn();
     }
+    
+    //?? Should I make it alwyays restart this alarm? 
 } else {
     // wait and recheck in check_rate time
     alarm[0] = check_rate;

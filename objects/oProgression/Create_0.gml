@@ -7,6 +7,9 @@ check_rate = game_get_speed(gamespeed_fps);
 alarm[0] = check_rate; // check every second? maybe? frame rates per second? 
 
 
+start_progression_alarm = function (){
+    alarm[0] = check_rate;
+}
 
 
 level_up = function (){
@@ -18,5 +21,11 @@ level_up = function (){
         spawn_amount++; // inc enemies per wave
         //spawn_rate -= 2.5;  // I assume this will space out enemies more? weird? 
     }
-    alarm[0] = check_rate;
+    start_progression_alarm();
+}
+
+add_spawn_btn = function (){
+    // set in the middle of the bottom part of the screen 
+    btn_height = sprite_get_height(spt_title_screen_block);
+    instance_create_layer(room_width/2, room_height - btn_height/2, "UI_Layer", obj_spawn);
 }

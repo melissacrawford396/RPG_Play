@@ -1,4 +1,4 @@
-spawn_amount = 1; 
+spawn_amount = 5; 
 spawn_count = 0; 
 spawn_rate = 0.2 * game_get_speed(gamespeed_fps);  // default is usually 60 for gamespeed
 room_speed_var = 0.5 * game_get_speed(gamespeed_fps);
@@ -14,11 +14,7 @@ is_spawn_active = function (){
 start_wave = function () {
     spawn_count = 0; // prep for another round
     
-    
     // this will set a cycle with the alarm to keep spawning until it runs out
     alarm[0] = spawn_rate; 
 
-// in the progression object make a funciton for increasing XP
-// that one will handle the level of the character in one place
-    //global.level++;
 }
