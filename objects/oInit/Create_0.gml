@@ -1,6 +1,6 @@
 
 global.hp = 100;
-global.spd = 5; 
+global.spd = 50; 
 global.level = 1; 
 
 global.coins = 200;
