@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Pixel_Art_Notes",
+  "name":"Pixel_Art_Notes",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

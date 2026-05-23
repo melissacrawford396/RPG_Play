@@ -1,0 +1,4 @@
+
+2026-05-20
+- playing around with the auto tilers: https://www.reddit.com/r/PixelArt/comments/12hysz4/which_way_of_tileset_is_better_for_top_down_games/
+- grass on water: https://www.reddit.com/r/PixelArt/comments/vtkeu0/i_made_a_tile_set_for_simple_grass_island_what_do/
