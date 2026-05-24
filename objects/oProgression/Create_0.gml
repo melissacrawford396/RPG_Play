@@ -14,7 +14,7 @@ start_progression_alarm = function (){
 
 level_up = function (){
     global.level += 1; 
-    global.hp += 1; // increase base health
+    global.hp = global.hp * 1.5 ; // increase base health
     global.spd += 0.1; // inc speed
     
     with (oSpawnParent) {
